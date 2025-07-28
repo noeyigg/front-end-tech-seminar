@@ -1,1 +1,2 @@
-export { default as useSafeEventListener } from "./hooks/useSafeEventListener";
+export { default as useSafeEventListener } from "./useSafeEventListener";
+export { default as useSafeSetInterval } from "./useSafeSetInterval";
