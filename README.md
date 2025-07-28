@@ -19,5 +19,5 @@
 ## 📦 설치 방법
 
 ```bash
-npm install react-safe-hooks
+npm install leakguard-hooks
 ```
