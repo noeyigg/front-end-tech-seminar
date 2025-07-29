@@ -19,5 +19,5 @@
 ## 📦 설치 방법
 
 ```bash
-npm install leakguard-hooks
+npm install leakguard-safe-hooks
 ```
